@@ -44,6 +44,5 @@ ipch/
 *.filters
 *.user
 
-*.bmp
 Output/
 TrainedModels/
